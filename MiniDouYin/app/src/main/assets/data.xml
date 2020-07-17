@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<messages>
+    <message> <!--元素  即 对象 -->
+        <title isOfficial="true">抖音小助手</title> <!--子元素   isOfficial是属性-->
+        <hashtag>#收下我的双下巴祝福</hashtag>
+        <time>昨天</time>
+        <icon>TYPE_ROBOT</icon>
+    </message>
+    <message>
+        <title isOfficial="true">游戏小助手</title>
+        <hashtag>抖出好游戏</hashtag>
+        <time>刚刚</time>
+        <icon>TYPE_GAME</icon>
+    </message>
+    <message>
+        <title isOfficial="true">系统消息</title>
+        <hashtag>账号登录提醒</hashtag>
+        <time>12-28</time>
+        <icon>TYPE_SYSTEM</icon>
+    </message>
+    <message>
+        <title isOfficial="false">陌生人消息</title>
+        <hashtag>转发[视频]</hashtag>
+        <time>12-18</time>
+        <icon>TYPE_STRANGER</icon>
+    </message>
+    <message>
+        <title isOfficial="false">工藤新一</title>
+        <hashtag>新酱</hashtag>
+        <time>12-12</time>
+        <icon>TYPE_USER</icon>
+    </message>
+<!--    <message> &lt;!&ndash;元素  即 对象 &ndash;&gt;-->
+<!--        <title isOfficial="true">抖音小助手</title> &lt;!&ndash;子元素   isOfficial是属性&ndash;&gt;-->
+<!--        <hashtag>#确认过眼神我是画中人</hashtag>-->
+<!--        <time>昨天</time>-->
+<!--        <icon>TYPE_ROBOT</icon>-->
+<!--    </message>-->
+<!--    <message>-->
+<!--        <title isOfficial="true">游戏小助手</title>-->
+<!--        <hashtag>今天你农药了吗</hashtag>-->
+<!--        <time>刚刚</time>-->
+<!--        <icon>TYPE_GAME</icon>-->
+<!--    </message>-->
+<!--    <message>-->
+<!--        <title isOfficial="true">系统消息</title>-->
+<!--        <hashtag>感谢你参加本次举报活动</hashtag>-->
+<!--        <time>12-28</time>-->
+<!--        <icon>TYPE_SYSTEM</icon>-->
+<!--    </message>-->
+<!--    <message>-->
+<!--        <title isOfficial="false">陌生人消息</title>-->
+<!--        <hashtag>猜猜我是谁</hashtag>-->
+<!--        <time>12-12</time>-->
+<!--        <icon>TYPE_STRANGER</icon>-->
+<!--    </message>-->
+    <message>
+        <title isOfficial="false">毛利兰</title>
+        <hashtag>兰酱</hashtag>
+        <time>12-18</time>
+        <icon>TYPE_USER</icon>
+    </message>
+
+    <message>
+        <title isOfficial="false">服部平次</title>
+        <hashtag>大阪黑鸡</hashtag>
+        <time>12-18</time>
+        <icon>TYPE_USER</icon>
+    </message>
+
+    <message>
+        <title isOfficial="false">远山和叶</title>
+        <hashtag>荷叶</hashtag>
+        <time>1-11</time>
+        <icon>TYPE_USER</icon>
+    </message>
+
+    <message>
+        <title isOfficial="false">阿笠博士</title>
+        <hashtag>conan</hashtag>
+        <time>12-18</time>
+        <icon>TYPE_USER</icon>
+    </message>
+    <message>
+        <title isOfficial="false">远山和叶</title>
+        <hashtag>荷叶</hashtag>
+        <time>1-11</time>
+        <icon>TYPE_USER</icon>
+    </message>
+    <message>
+        <title isOfficial="false">远山和叶</title>
+        <hashtag>荷叶</hashtag>
+        <time>1-11</time>
+        <icon>TYPE_USER</icon>
+    </message>
+
+</messages>
